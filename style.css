@@ -13,3 +13,11 @@ body{
     height: 1050px;
     border: 1px solid black;
 }
+
+.letterhead{
+    width: auto;
+    height: auto;
+    text-align: center;
+
+}
+
